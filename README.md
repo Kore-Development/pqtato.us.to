@@ -1,2 +1,2 @@
 # pqtato.us.to
-## Uses kutt.it
+## Uses ![https://kutt.it](https://kutt.it)
